@@ -1,6 +1,6 @@
 👋 Hi, I’m Beteab!
 I’m a web developer with experience in Next.js, Node.js, React, HTML, CSS, and JavaScript. 
-I'am Passionate about building high-performance, responsive web applications.
+Passionate about building high-performance, responsive web applications.
 💡 Currently looking to collaborate on developing high-end websites!
 📫 Reach me at: beteabbaynessagne548@gmail.com
 <!---
